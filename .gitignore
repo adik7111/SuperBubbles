@@ -1,0 +1,8 @@
+.idea/
+target/
+.settings
+.classpath
+.project
+pom.xml
+SuperBubbles.iml
+Test Results - SuperBubbleTest_superBubbleAlgorithmCorrectlyStoresSuperBubbleReports.html
